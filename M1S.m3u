@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #EXTINF:0 tvg-rec="0",Первый канал UHD
 #EXTGRP:Общие
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/19241/index.m3u8
